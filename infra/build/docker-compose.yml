@@ -10,7 +10,7 @@ services:
       - cicd-infra  
 
   jenkins:
-    image: courselabs/jenkins:2.319.1
+    image: thecodecamp/jenkins:2.381-basic
     ports:
       - "8081:8080"
     volumes:
