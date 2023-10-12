@@ -10,7 +10,7 @@ services:
       - cicd-infra  
 
   jenkins:
-    image: thecodecamp/jenkins:2.381-basic
+    image: thecodecamp/jenkins:2.426-alpine-jdk21-preview
     ports:
       - "8081:8080"
     volumes:
