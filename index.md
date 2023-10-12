@@ -7,7 +7,7 @@ This is a full-day self-paced project to use DevOps and DevSecOps practices in a
  - [Set up Docker, Kubernetes and a Git client](setup/README.md) 
  - Download your repo
     - Open a terminal (PowerShell on Windows; any shell on Linux/macOS) 
-    - Run: `git clone https://github.com/courselabs/project-cicd.git`
+    - Run: `git clone https://github.com/the-code-camp/project-cicd.git`
     - Open the folder: `cd project-cicd`
 - _Optional_
     -   Install [Visual Studio Code](https://code.visualstudio.com) (free - Windows, macOS and Linux) to browse the repo and documentation
@@ -23,8 +23,8 @@ ___
 
 This project caps a teaching program, with the expectation that you've been through these classes:
 
-- [Cloud Native Development](https://cloudnative.courselabs.co)
-- [DevOps and DevSecOps](https://devsecops.courselabs.co)
+- [Cloud Native Development](https://github.com/the-code-camp/cloudnative)
+- [DevOps and DevSecOps](https://github.com/the-code-camp/devsecops)
 
 ### Credits
 
